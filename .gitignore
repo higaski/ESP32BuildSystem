@@ -1,0 +1,6 @@
+/build/
+/data/KiCad/wulf-backups
+/managed_components/
+dependencies.lock
+sdkconfig
+sdkconfig.old
